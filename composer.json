@@ -1,0 +1,17 @@
+{
+    "name": "legion112/yii-target-log-without-stack",
+    "require": {
+        "php": ">=7.2.0",
+        "yiisoft/yii2": "~2.0.6"
+    },
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "legion112",
+            "email": "ageev.maks2014@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"legion112\\": "src"}
+    }
+}
